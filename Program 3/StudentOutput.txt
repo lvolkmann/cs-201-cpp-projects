@@ -1,0 +1,6 @@
+Student name is: Jack Smith. The ID is: 102. Major is: Art
+Student name is: Sam Wael. The ID is: 104. Major is: History
+Student name is: Kim Watson. The ID is: 105. Major is: Math
+Student name is: Nancy Thomson. The ID is: 106. Major is: Geography
+Student name is: Tim Jefferson. The ID is: 107. Major is: Art
+Student name is: Sam Anthony. The ID is: 110. Major is: Engineering
